@@ -22,6 +22,6 @@ Todo list application that can create, read, update, delete, and mark completed.
    
 ### Snapshot of Application   
         
-![ToDoList App](https://postimg.cc/gw0ZmGhr) 
+![ToDoList App]
 ![Screenshot (64)](https://github.com/luckydubey18/To-do-list/assets/116135685/ec9458f2-ff83-4893-a684-52dbfbee8994)
         
